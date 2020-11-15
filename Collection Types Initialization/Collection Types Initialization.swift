@@ -14,7 +14,7 @@ or,
 2.) How to initialize array or array of strings in swift ?
  var myNewStringArray = [String]() /* Array of string initialization */
 or,
- var myNewArray = [String]()
+ var myNewArray = [String]() /* Simply Array initialization */
 or,
  var myNewArray: [String] = []
  or,
