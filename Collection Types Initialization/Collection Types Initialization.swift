@@ -23,7 +23,7 @@ or,
 var myNewArray = [Int]()
 
 3.) How to initialize the Dictionary?
-let dict: [String:Int]() /* Simply Dictionary Initialization */
+let dict = [String:Int]() /* Simply Dictionary Initialization */
 or,
 
  /* Dictionary initialization with String and Int Type - starts here */
@@ -36,7 +36,7 @@ let dict : [String:Int] = [:]
 
 4.) How to initialize the set ?
  var set = Set<String>()
- eg -> var set: Set = ["Ram", "Shyam", "Mohan", "Shyam"]
+ eg -> var set: Set = ["Ram", "Shyam", "Mohan", "Ghanshyam"]
 or,
 var set = Set<Int>()
 eg -> var set: Set = [1,2,3,4]
